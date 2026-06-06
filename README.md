@@ -22,7 +22,9 @@ Método de ataque: Credential Harvester Attack Method
 
 ![Clique para ver execução](images/kali-phishing-menu-credential-harvester-attack-method.PNG)
 
-Método de ataque:
+Método de ataque: Custom Import
+
+![Clique para ver execução](images/kali-phishing-menu-custom-import.PNG)
 
 URL para clone: 
 ## 📊 Resultados
