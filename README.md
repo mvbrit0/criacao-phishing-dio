@@ -11,6 +11,7 @@ Acesso root: sudo su
 Iniciando o setoolkit: setoolkit
 
 Tipo de ataque: Social-Engineering Attacks
+
 ![Clique para ver execução](images/kali-phishing-menu-social-engineering-attacks.PNG)
 
 Vetor de ataque: Web Site Attack Vectors
