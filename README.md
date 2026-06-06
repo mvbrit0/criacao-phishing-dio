@@ -2,7 +2,8 @@
 ## 🛠️ Metodologia
 1. **Sistema Operacional**: kali linux
 2. **Ferramenta utilizada**: setoolkit
-3. **Simulação**: criação de uma página de login falsa (sem coleta real de dados)
+3. **Simulação**: criação de uma página de login falsa (index.html)
+![Clique para ver execução](images/kali-phishing-index.html.PNG)
 
    ⚠️ **Aviso importante:** Nenhuma credencial real foi coletada. O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos
 ## ⚙️ Configuração do Ambiente
