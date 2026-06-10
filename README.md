@@ -1,16 +1,15 @@
 # 📘 Desafio DIO: Criação de um Phishing com o Kali Linux
 ## 🛠️ Metodologia
-1. **Sistema Operacional**: kali linux
-2. **Ferramenta utilizada**: setoolkit
+1. **Sistema Operacional**: Kali Linux
+2. **Ferramenta utilizada**: *setoolkit*
 3. **Simulação**: criação de uma página de login falsa (index.html)
 
 ![Clique para ver execução](images/kali-phishing-index.html.PNG)
 
-   ⚠️ **Aviso importante:** Nenhuma credencial real foi coletada. O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos.
 ## ⚙️ Configuração do Ambiente
 **Acesso root:** `sudo su`
 
-**Iniciando o setoolkit:** `setoolkit`
+**Iniciando o setoolkit:** *`setoolkit`*
 
 **Tipo de ataque:** `Social-Engineering Attacks`
 
@@ -30,9 +29,18 @@
 
 **Obtendo o endereço da máquina:** `Index.html`
 
-Informamos o caminho da criação do arquivo index.html (página de login falsa) no kali linux. Depois disso, há o direcionamento, a partir do IP da máquina, que serve a página de login falsa na porta 80.
+Informamos o caminho da criação do arquivo index.html (página de login falsa) no Kali Linux. Depois disso, há o direcionamento, a partir do IP da máquina, que serve a página de login falsa na porta 80.
 
 ![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html.PNG)
 ![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html-1.PNG)
+
+Acessando pelo navegado do Kali Linux, inserimos um usuário e senha. Ao clicar no botão Entrar, esses dados são automaticamente capturados e exibidos no console no *setoolkit*, conforme demonstrado.
+
 ![Clique para ver execução](images/kali-phishing-pagina-login-falsa.PNG)
+
 ## 📊 Resultados
+
+![Clique para ver execução](images/kali-phishing-usuario-senha.PNG)
+![Clique para ver execução](images/kali-phishing-usuario-senha-xml)
+
+   ⚠️ **Aviso importante:** Nenhuma credencial real foi coletada. O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos.
