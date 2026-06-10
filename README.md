@@ -33,5 +33,6 @@
 Informamos o caminho da criação do arquivo index.html (página de login falsa) no kali linux. Depois disso, há o direcionamento, a partir do IP da máquina, que serve a página de login falsa na porta 80.
 
 ![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html.PNG)
+![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html-1.PNG)
 ![Clique para ver execução](images/kali-phishing-pagina-login-falsa.PNG)
 ## 📊 Resultados
