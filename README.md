@@ -8,25 +8,28 @@
 
    ⚠️ **Aviso importante:** Nenhuma credencial real foi coletada. O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos
 ## ⚙️ Configuração do Ambiente
-Acesso root: sudo su
+**Acesso root: sudo su**
 
-Iniciando o setoolkit: setoolkit
+**Iniciando o setoolkit: setoolkit**
 
-Tipo de ataque: Social-Engineering Attacks
+**Tipo de ataque: Social-Engineering Attacks**
 
 ![Clique para ver execução](images/kali-phishing-menu-social-engineering-attacks.PNG)
 
-Vetor de ataque: Web Site Attack Vectors
+**Vetor de ataque: Web Site Attack Vectors**
 
 ![Clique para ver execução](images/kali-phishing-menu-web-site-attack-vectors.PNG)
 
-Método de ataque: Credential Harvester Attack Method 
+**Método de ataque: Credential Harvester Attack Method** 
 
 ![Clique para ver execução](images/kali-phishing-menu-credential-harvester-attack-method.PNG)
 
-Método de ataque: Custom Import
+**Método de ataque: Custom Import**
 
 ![Clique para ver execução](images/kali-phishing-menu-custom-import.PNG)
 
-URL para clone: 
+Obtendo o endereço da máquina: Index.html (página de login falsa).
+
+![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html.PNG)
+
 ## 📊 Resultados
