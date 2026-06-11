@@ -34,13 +34,16 @@ Informamos o caminho da criação do arquivo index.html (página de login falsa)
 ![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html.PNG)
 ![Clique para ver execução](images/kali-phishing-menu-copy-just-the-index.html-1.PNG)
 
-Acessando pelo navegado do Kali Linux, inserimos um usuário e senha. Ao clicar no botão Entrar, esses dados são automaticamente capturados e exibidos no console no *setoolkit*.
+Acessando pelo navegado do Kali Linux, inserimos um usuário e senha. Ao clicar no botão Entrar, esses dados são automaticamente capturados e exibidos no console do *setoolkit*.
 
 ![Clique para ver execução](images/kali-phishing-pagina-login-falsa.PNG)
 
 ## 📊 Resultados
 
 ![Clique para ver execução](images/kali-phishing-usuario-senha.PNG)
+
+Após a captura dos dados, podemos gerar um relatório via arquivo xml, a partir do comando `crlt + c`. Na sequência o comando `ls -a /root/.set/reports/` mostrará o resumo do que foi capturado no terminal.
+
 ![Clique para ver execução](images/kali-phishing-usuario-senha-xml.PNG)
 
    ⚠️ **Aviso importante:** Nenhuma credencial real foi coletada. O desafio é estritamente educacional e não deve ser utilizado para fins maliciosos.
