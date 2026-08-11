@@ -1,6 +1,6 @@
 # 📘 Desafio DIO: Criação de um Phishing com o Kali Linux
 ## 🛠️ Metodologia
-1. **Sistema Operacional**: `Kali Linux`
+1. **Sistema Operacional**:`Kali Linux`
 2. **Ferramenta utilizada**: *setoolkit*
 3. **Simulação**: criação de uma página de login falsa (index.html)
 
